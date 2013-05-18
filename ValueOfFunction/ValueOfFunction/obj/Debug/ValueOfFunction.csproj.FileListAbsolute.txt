@@ -1,0 +1,5 @@
+E:\Programming\Library\ValueOfFunction\ValueOfFunction\obj\Debug\ResolveAssemblyReference.cache
+E:\Programming\Library\ValueOfFunction\ValueOfFunction\bin\Debug\Functions.dll
+E:\Programming\Library\ValueOfFunction\ValueOfFunction\bin\Debug\Functions.pdb
+E:\Programming\Library\ValueOfFunction\ValueOfFunction\obj\Debug\Functions.dll
+E:\Programming\Library\ValueOfFunction\ValueOfFunction\obj\Debug\Functions.pdb

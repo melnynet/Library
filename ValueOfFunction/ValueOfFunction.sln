@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueOfFunction", "ValueOfFunction\ValueOfFunction.csproj", "{DBE577EE-5436-458F-8670-75EA5C3B8641}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBE577EE-5436-458F-8670-75EA5C3B8641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBE577EE-5436-458F-8670-75EA5C3B8641}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBE577EE-5436-458F-8670-75EA5C3B8641}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBE577EE-5436-458F-8670-75EA5C3B8641}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
